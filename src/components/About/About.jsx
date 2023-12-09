@@ -53,15 +53,12 @@ const About = () => {
          
 
             <p>
-                Computer Science Engineer, graduated from Benemerita Universidad Autonoma de Puebla. Passion for new technologies and software development. 
-
+                I'm a Computer Science Engineer, passionate about tech innovation. With a degree from Benemerita Universidad Autonoma de Puebla, I bring a solid foundation in computer science and software engineering. Beyond the classroom, I apply my skills to real-world challenges, thriving in dynamic environments. Let's connect and explore the exciting possibilities of the computer science world!
                 <br></br>
                 <br></br>
                 <br></br>
 
-                Ingeniero en Ciencias de la Computación egresado de la Benemérita Universidad Autónoma de Puebla. Apasionado por la tecnología y el desarrollo de software.
-                <br></br>
-                Autodidacta, diligente, responsable, organizado, honesto y me agrada el trabajo en equipo.
+                Soy un Ingeniero en Ciencias de la Computación, apasionado por la innovación tecnológica. Con un título de la Benemérita Universidad Autónoma de Puebla, tengo una sólida base en informática e ingeniería de software. Más allá del aula, aplico mis habilidades a desafíos del mundo real, prosperando en entornos dinámicos. ¡Conectémonos y exploremos las emocionantes posibilidades del mundo de la informática!
             </p>
 
             <a href='#contact' className='btn btn-primary'>Let's Talk</a>

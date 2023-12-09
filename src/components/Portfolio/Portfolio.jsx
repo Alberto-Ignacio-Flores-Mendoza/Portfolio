@@ -23,7 +23,7 @@ const Portfolio = () => {
       {
       id: 15,
       image: IMG15,
-      title: 'Ecomerce page. Made with React, Nodejs, express and MongoDb. I used stripe for payment and cloudinary for image management. Add items to your cart, view your orders as well as order status. This website is hosted on a free server that may experience downtime.',
+      title: 'Explore our eCommerce site crafted with React, Node.js, Express, and MongoDB. Seamless shopping with Stripe payments, enhanced visuals via Cloudinary. Add to your cart, track orders, and check statuses. Please note: our site is hosted on a free server, occasional downtime may occur.',
       github: 'https://github.com/Alberto-Ignacio-Flores-Mendoza/Ecomerce',
       demo: 'https://frolicking-dasik-3f67ae.netlify.app/',  
     },
@@ -31,42 +31,42 @@ const Portfolio = () => {
     {
       id: 14,
       image: IMG14,
-      title: "Sociopedia, social media website. Made with React, Nodejs, express and MongoDb. I used cloudinary for image management. You can make posts with images or simply text, comment, like posts, add friends as well as view a friend's profile and whatever posts they have made. This website is hosted on a free server that may experience downtime.",
+      title: "Sociopedia: Social media platform crafted with React, Node.js, Express, and MongoDB. Seamlessly post text or images, comment, like, and connect with friends. Explore profiles and view friends' posts. Please note: our site is hosted on a free server, occasional downtime may occur.",
       github: 'https://github.com/Alberto-Ignacio-Flores-Mendoza/Sociopedia',
       demo: 'https://quiet-treacle-9ca976.netlify.app/',  
     },
     {
       id: 13,
       image: IMG13,
-      title: 'Blog  website. Made with React, Nodejs, express and MongoDb. Uses cloudinary for image management. Able to create posts, search for a specific post, comment, delete posts and comments, edit posts and view your published posts. This website is hosted on a free server that may experience downtime.',
+      title: 'Blog webpage: A blog website crafted with React, Node.js, Express, and MongoDB, featuring seamless post creation, search, commenting, editing, and deletion. Utilizing Cloudinary for image management. Please note: hosted on a free server, occasional downtime may occur.',
       github: 'https://github.com/Alberto-Ignacio-Flores-Mendoza/BlogMERN',
       demo: 'https://luminous-queijadas-0dc9f2.netlify.app/',  
     },
     {
       id: 1,
       image: IMG1,
-      title: 'Foodies Hub, fetches data from a recipe API depending on your search query , responsive design, provides a couple of settings that can be changed. ',
+      title: 'Introducing Foodies Hub, your go-to culinary companion! This dynamic platform fetches delectable recipes from a curated API based on your search query. With its responsive design, enjoy a seamless experience across devices. Tailor your culinary adventure with customizable settings, making Foodies Hub your personalized cooking haven. ',
       github: 'https://github.com/Alberto-Ignacio-Flores-Mendoza/FoodieHub_portfolio',
       demo: 'https://flourishing-gaufre-4b7aa1.netlify.app/',  
     },
     {
       id: 2,
       image: IMG3,
-      title: 'Workout Searcher, fetches data from an API, able to search for specific workouts, provides an example of how to preform the workout as well as provides youtube videos with more explanations. Responsive design.',
+      title: 'Meet Workout Searcher, your fitness guide on the go! Utilizing a robust API and React, it fetches a variety of workouts tailored to your search. Experience a responsive design for seamless access across devices. Each workout comes with a step-by-step guide and additional YouTube videos for in-depth explanations. Elevate your fitness journey with Workout Searcher',
       github: 'https://github.com/Alberto-Ignacio-Flores-Mendoza/ExercisePage_with_API',
       demo: 'https://curious-froyo-8e0f1e.netlify.app/',  
     },
     {
       id: 3,
       image: IMG4,
-      title: 'Youtube Clone, fetches data from a youtube api, provides results from predetermined querys or search for videos yourself. Responsive design.',
+      title: 'Youtube Clone that I created using React.This platform fetches data from the YouTube API, offering curated results from predetermined queries or allowing personalized searches. Enjoy a responsive design for a seamless viewing experience across devices.',
       github: 'https://github.com/Alberto-Ignacio-Flores-Mendoza/Youtube_clone',
       demo: 'https://earnest-lolly-8a7ba5.netlify.app/', 
     },
     {
       id: 4,
        image: IMG10,
-      title: 'Restaurant page. Transfered a figma design into this responsive website',
+      title: "Explore our Restaurant Page, where Figma's design comes to life in this responsive React website. Immerse yourself in the ambiance, seamlessly navigating our menu on any device. From desktops to mobiles, our design ensures a delightful and immersive experience, mirroring the elegance of our physical space",
       github: 'https://github.com/Alberto-Ignacio-Flores-Mendoza/Restaurant_design',
       demo: 'https://lucent-capybara-ad7a6d.netlify.app/', 
    
@@ -74,7 +74,7 @@ const Portfolio = () => {
     {
       id: 5,
       image: IMG11,
-      title: 'Real Estate Page',
+      title: "Dive into our Real Estate Page, seamlessly transformed from Figma's design to a responsive React website. Explore properties and listings with ease, whether on your desktop or mobile device. Our design ensures a captivating experience, mirroring the elegance of your potential future home or investment.",
       github: 'https://github.com/Alberto-Ignacio-Flores-Mendoza/RealEstate_Design',
       demo: 'https://joyful-kringle-9e0319.netlify.app/', 
     },{
