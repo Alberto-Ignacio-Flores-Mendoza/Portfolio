@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c6803c33.css",
-    "main.js": "/static/js/main.678aa8d0.js",
+    "main.js": "/static/js/main.5cb27143.js",
     "static/media/Img4.png": "/static/media/Img4.ec0fa86a3269ae2493dc.png",
     "static/media/Img15.png": "/static/media/Img15.53ac3e4573e124c544e7.png",
     "static/media/Img2.png": "/static/media/Img2.bb9b0875831f6c06e9a1.png",
@@ -14,16 +14,17 @@
     "static/media/Img3.png": "/static/media/Img3.1385b5012911dfabf0ef.png",
     "static/media/Img11.png": "/static/media/Img11.939e8686a395af3dc197.png",
     "static/media/Img13.png": "/static/media/Img13.04edc651dde349656aa5.png",
-    "static/media/Alberto_Ignacio_Flores_Mendoza_CV.pdf": "/static/media/Alberto_Ignacio_Flores_Mendoza_CV.8af35569a51f8fb3e0ed.pdf",
+    "static/media/Alberto_Ignacio_Flores_Mendoza_CV_Spanish_V3.pdf": "/static/media/Alberto_Ignacio_Flores_Mendoza_CV_Spanish_V3.123f0bee09a207dca3ba.pdf",
+    "static/media/Alberto_Ignacio_Flores_Mendoza_CV_English_V3.pdf": "/static/media/Alberto_Ignacio_Flores_Mendoza_CV_English_V3.36721fac417c0043ba99.pdf",
     "static/media/texture.jpg": "/static/media/texture.cf1ba8b17c963baa3ae7.jpg",
     "static/media/Img7.png": "/static/media/Img7.f3a2099b7512fad35f30.png",
     "static/media/Img6.png": "/static/media/Img6.6ac1f8318d9877fb016c.png",
     "index.html": "/index.html",
     "main.c6803c33.css.map": "/static/css/main.c6803c33.css.map",
-    "main.678aa8d0.js.map": "/static/js/main.678aa8d0.js.map"
+    "main.5cb27143.js.map": "/static/js/main.5cb27143.js.map"
   },
   "entrypoints": [
     "static/css/main.c6803c33.css",
-    "static/js/main.678aa8d0.js"
+    "static/js/main.5cb27143.js"
   ]
 }
